@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <style type="text/css">
+  body{
+	border-style: solid ;
+	border-width: 5px   ;
+	border-color: black;
+	font-size: 30px;
+	background-image:url("20232395.jpg");
+
+  }
+  h1{
+	height: 50px ;
+	border-style: solid ;
+	border-width: 3px ;
+	border-color: blue ;
+	padding : 10px;
+	line-height:50px;
+	background-color: orange; 
+	text-align: center;
+  }
+  p{
+	text-align: left;
+	border: 2px solid green;
+	padding: 26px;
+	line-height: 1.2em; 
+	background-color: orange;
+	text-align:center;
+  }
+  img{
+	width: 100%
+	border: 3px solid purple;
+	padding: 5px;
+	height: 100px
+  }
+  div{
+	border: 2px solid navy;
+	padding:5px;
+	text-align: center;
+  }
+  b{
+  color:red;
+  }
+  a{
+  padding: 0.2em 0.3em;
+  color: yellow;
+  background: orange;
+  margin: 1em;
+  color: red;
+background-color: blue;
+	text-align:center;
+  }
+  a:hover{
+  color: red;
+  background: cyan;
+
+  }
+  </style>
+ </head>
+<title>Document</title>
+ <body>
+  <h1>
+ <b>nice day</b>
+  </h1> 
+  <div>
+	<a href="20232395-a.html">第一次作业</a>
+	<a href="20232395-b.html">第二次作业</a>
+	<a href="20232395-c.html">第三次作业</a>
+	</div>
+	<p>
+	<b>happy day!happy day!happy day!happy day!happy day!happy day!</b>
+	<img src="20232395-A.png" alt="">
+  </p>
+ </body>
+</html>
